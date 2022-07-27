@@ -1,5 +1,5 @@
 <include a CircleCI status badge, here>
-[![ojoimmanuel](https://circleci.com/gh/ojoimmanuel/devops_ml_microservices_kubernetes_project4.svg?style=svg)](https://github.com/ojoimmanuel/DevOps_ml_Microservices_kubernetes_Project4/blob/main/README.md)
+https://github.com/ojoimmanuel/DevOps_ml_Microservices_kubernetes_Project4
 
 
 ## Project Overview
